@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#basliq{
+    text-align: center;
+    padding: 34px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #109E97;
+}
+hr{
+    border: 1px solid black;
+    margin-left: 8px;
+    margin-right: 10px;
+    width: 1822px;
+}
+#david{
+    margin-left: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 23px;
+}
+#q12{
+    color: #008000;
+    font-size: 25px;
+    margin-left: 8px;
+}
+#q15{
+    color: #FF0000;
+    font-size: 18px;
+}
+#sekil1{
+    margin-top: 18px;
+    margin-left: 8px;
+}
+#mezmun{
+    width: 1500px;
+    height: 256px;
+    background-color: black;
+    color: white;
+    margin-left: 8px;
+    margin-right: 43px;
+    padding-left: 62px;
+    padding-top: 88px;
+    margin-bottom: 8px;
+}
+#qisa{
+    text-align: right;
+    margin-bottom: 21px;
+}
+#xüsusiyyətlər{
+    margin-top: 21px;
+    margin-left: 8px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+td{
+    width: 700px;
+    height: 36px;
+    font-size: 15px;
+}
+#xususi{
+    text-align: center;
+}
+#aciqlama{
+    text-align: center;
+}
+table{
+    margin-bottom: 47px;
+    margin-top: 21px;
+    margin-left: 8px;
+}
+#sekil2{
+    margin-top: 66px;
+    display: inline-block;
+}
+#serh{
+    width: 300px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+#esas{
+    display:flex;
+
+}
+button{
+    height: 50px;
+    width: 120px;
+    background: #109E97;
+    border: 0px;
+    color: antiquewhite;
+    margin-top: 20px;
+}
+#sekil2 img{
+    width: 300px;
+}
+#serhyaz{
+    font-size: 24px;
+    margin-bottom: 36px;
+    text-transform: uppercase;
+}
+li{
+    list-style-type: none;
+    margin-left: 48px;
+}
+main hr{
+    margin-top: 44px;
+}
+#son{
+    width: 1886px;
+    height: 26px; 
+    padding-left:740px;
+    padding-top: 34px;
+    padding-bottom: 36px;
+    background-color: #109E97;
+    margin: 8px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
